@@ -1,2 +1,2 @@
-# labat
-Material da disci´plina
+# Dataset Postgres
+This repository is for the summary data article entitled “MODEL TEMPORAL SPACE OF IRREGULAR OCCUPATIONS IN THE BRAZILIAN ROAD SURROUND: BR-408 CASE STUDY” and can be found at Link . The data set describes the census data of the years 2000 and 2010 , as well as the geospatial data of the limits of the census sectors and the irregular occupations on the BR-408 domain range in the 2018 stretch between Recife and Timbaúba , referring to the BR-Legal program in the state of Pernambuco that is carrying out the Inventory and Monitoring of the Domain Range - IMFD, with the objective of Monitoring Automation through CAD and geoprocessing software (QGIS) and high-resolution imaging.
